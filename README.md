@@ -37,7 +37,7 @@ File Storage – Google Drive for version control and policy access
 
 - [Step 1) Initiating Cross-Functional Collaboration](#step-1-initiating-cross-functional-collaboration)
 - [Step 2) Structuring the Collaborative Discussion](#step-2-structuring-the-collaborative-discussion)
-- [Step 3) Critical Asset Inventory – NIST CSF Identify Function](#step-3-critical-asset-inventory-nist-csf-identify-function)
+- [Step 3) Critical Asset Inventory – NIST CSF Identify Function](#step-3-critical-asset-inventory--nist-csf-identify-function)
 
 
 ---
