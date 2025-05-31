@@ -41,8 +41,8 @@ File Storage – SharePoint / Google Drive for version control and policy access
 
 ---
 
-### Step 1) Initiating Cross-Functional Collaboration
-## Meeting Request Email
+## Step 1) Initiating Cross-Functional Collaboration
+### Meeting Request Email
 To kick off the project, I drafted a professional meeting request email to SecureTech’s IT and Legal teams. This demonstrated proactive communication and simulated real-world collaboration to align technical and legal perspectives on data protection training and identity access management (IAM).
 
 #meeting-request-email
