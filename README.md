@@ -14,21 +14,21 @@ _**Completion State:**_  Closed the project by conducting audits, refining gover
 <img width="1000" alt="image" src="https://cdn.azeusconvene.com/wp-content/uploads/Banner-Image_Convene_What-is-GRC-A-Guide-to-Leveraging-GRC-for-Effective-ESG-Strategy.jpg">
 
 # Technology Utilized
-Microsoft Excel / Google Sheets – for risk registers, audit tracking, and compliance matrices
+Google Sheets – for risk registers, audit tracking, and compliance matrices
 
-Microsoft Word / Google Docs – for drafting policies, meeting notes, and documentation
+Google Docs – for drafting policies, meeting notes, and documentation
 
 Microsoft Outlook – for professional communication and meeting coordination
 
-PowerPoint / Google Slides – for training presentations and executive reporting
+Google Slides – for training presentations and executive reporting
 
 Risk Management Frameworks – NIST RMF, NIST 800-53, NIST CSF
 
 Compliance Standards – PCI DSS, HIPAA, GDPR
 
-Ticketing/Workflow Tools – (e.g., ServiceNow, JIRA)
+Workflow Tools – JIRA
 
-File Storage – SharePoint / Google Drive for version control and policy access
+File Storage – Google Drive for version control and policy access
 
 ---
 
