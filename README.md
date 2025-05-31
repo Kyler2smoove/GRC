@@ -14,9 +14,21 @@ _**Completion State:**_  Closed the project by conducting audits, refining gover
 <img width="1000" alt="image" src="https://cdn.azeusconvene.com/wp-content/uploads/Banner-Image_Convene_What-is-GRC-A-Guide-to-Leveraging-GRC-for-Effective-ESG-Strategy.jpg">
 
 # Technology Utilized
-- Tenable (enterprise vulnerability management platform)
-- Azure Virtual Machines (Nessus scan engine + scan targets)
-- PowerShell & BASH (remediation scripts)
+Microsoft Excel / Google Sheets – for risk registers, audit tracking, and compliance matrices
+
+Microsoft Word / Google Docs – for drafting policies, meeting notes, and documentation
+
+Microsoft Outlook – for professional communication and meeting coordination
+
+PowerPoint / Google Slides – for training presentations and executive reporting
+
+Risk Management Frameworks – NIST RMF, NIST 800-53, NIST CSF
+
+Compliance Standards – PCI DSS, HIPAA, GDPR
+
+Ticketing/Workflow Tools – (e.g., ServiceNow, JIRA)
+
+File Storage – SharePoint / Google Drive for version control and policy access
 
 ---
 
@@ -32,18 +44,20 @@ _**Completion State:**_  Closed the project by conducting audits, refining gover
 ### Step 1) Initiating Cross-Functional Collaboration
 
 To kick off the project, I drafted a professional meeting request email to SecureTech’s IT and Legal teams. This demonstrated proactive communication and simulated real-world collaboration to align technical and legal perspectives on data protection training and identity access management (IAM).
-[Meeting Request Email](<"img width="1000" alt="image" src="https://i.imgur.com/Bu6uvEC.png">)
-
-<img src="[https://github.com/user-attachments/assets/9afcdbc1-0493-4af2-9287-1cb9b8f59b40](https://imgur.com/a/Acq4jAk)" alt="image" width="400">
----
-
-### Step 2) Meeting: Policy Buy-In (Stakeholders)
-
-In this phase, a meeting with the server team introduces the draft Vulnerability Management Policy and assesses their capability to meet remediation timelines. Feedback leads to adjustments, like extending the critical remediation window from 48 hours to one week, ensuring collaborative implementation.
-
 
 # Meeting Request Email
 
+<img src="https://i.imgur.com/Bu6uvEC.png" alt="image" width="1000">
+---
+
+### Step 2) Structuring the Collaborative Discussion
+
+To ensure an efficient and productive meeting, I created a detailed agenda outlining key technical and legal discussion points. This agenda was designed to align IT and Legal stakeholders on data protection or IAM strategy, clarify responsibilities, and drive actionable outcomes for policy and training improvements.
+
+# Meeting Agenda
+
+
+<img src="https://i.imgur.com/4X7zwoh.png" alt="image" width="1000">
 
 ---
 
