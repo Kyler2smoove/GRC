@@ -37,6 +37,7 @@ File Storage – SharePoint / Google Drive for version control and policy access
 
 - [Step 1) Initiating Cross-Functional Collaboration](#step-1-initiating-cross-functional-collaboration)
 - [Step 2) Structuring the Collaborative Discussion](#step-2-structuring-the-collaborative-discussion)
+- [Step 3) Critical Asset Inventory – NIST CSF Identify Function](#step-3-critical-asset-inventory-nist-csf-identify-function)
 
 
 ---
@@ -57,12 +58,11 @@ To ensure an efficient and productive meeting, I created a detailed agenda outli
 
 ---
 
-### Step 3) Policy Finalization and Senior Leadership Sign-Off
+### Step 3) Critical Asset Inventory – NIST CSF Identify Function
 
-After gathering feedback from the server team, the policy is revised, addressing aggressive remediation timelines. With final approval from upper management, the policy now guides the program, ensuring compliance and reference for pushback resolution.  
-[Finalized Policy](https://docs.google.com/document/d/1rvueLX_71pOR8ldN9zVW9r_zLzDQxVsnSUtNar8ftdg/edit?usp=drive_link)
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/9afcdbc1-0493-4af2-9287-1cb9b8f59b40" alt="image" width="400">
+Created a comprehensive inventory of SecureTech’s critical assets as part of the NIST Cybersecurity Framework’s Identify function. Assets were categorized by type (Data, Application, Security Tool, Third-Party Platform) and evaluated for impact level (High, Medium, Low) to support future risk management and control implementation.
+
+<img src="https://i.imgur.com/OHJCa3y.png" alt="image" width="1000">
 </div>
 
 ---
