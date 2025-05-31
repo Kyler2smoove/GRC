@@ -35,14 +35,14 @@ File Storage – SharePoint / Google Drive for version control and policy access
 
 # Table of Contents
 
-- [Meeting Request Email](#meeting-request-email)
-- [Meeting Agenda](#meeting-agenda)
+- [Step 1) Initiating Cross-Functional Collaboration](##step-1-meeting-request-email--initiating-cross-functional-collaboration)
+- [Step 2) Structuring the Collaborative Discussion](#step-2-structuring-the-collaborative-discussion)
 
 
 ---
 
 ## Step 1) Initiating Cross-Functional Collaboration
-### Meeting Request Email
+
 To kick off the project, I drafted a professional meeting request email to SecureTech’s IT and Legal teams. This demonstrated proactive communication and simulated real-world collaboration to align technical and legal perspectives on data protection training and identity access management (IAM).
 
 <img src="https://i.imgur.com/Bu6uvEC.png" alt="image" width="1000">
@@ -51,8 +51,6 @@ To kick off the project, I drafted a professional meeting request email to Secur
 ### Step 2) Structuring the Collaborative Discussion
 
 To ensure an efficient and productive meeting, I created a detailed agenda outlining key technical and legal discussion points. This agenda was designed to align IT and Legal stakeholders on data protection or IAM strategy, clarify responsibilities, and drive actionable outcomes for policy and training improvements.
-
-# Meeting Agenda
 
 
 <img src="https://i.imgur.com/4X7zwoh.png" alt="image" width="1000">
