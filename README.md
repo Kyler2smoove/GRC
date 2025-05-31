@@ -35,7 +35,7 @@ File Storage – SharePoint / Google Drive for version control and policy access
 
 # Table of Contents
 
-- [Step 1) Initiating Cross-Functional Collaboration](##step-1-meeting-request-email--initiating-cross-functional-collaboration)
+- [Step 1) Initiating Cross-Functional Collaboration](##step-1-initiating-cross-functional-collaboration)
 - [Step 2) Structuring the Collaborative Discussion](#step-2-structuring-the-collaborative-discussion)
 
 
