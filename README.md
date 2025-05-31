@@ -35,17 +35,17 @@ File Storage – SharePoint / Google Drive for version control and policy access
 
 # Table of Contents
 
-- [Meeting Request Email](#vulnerability-management-policy-draft-creation)
-- [Meeting Agenda](#step-2-mock-meeting-policy-buy-in-stakeholders)
+- [Meeting Request Email](#meeting-request-email)
+- [Meeting Agenda](#)
 
 
 ---
 
 ### Step 1) Initiating Cross-Functional Collaboration
-
+## Meeting Request Email
 To kick off the project, I drafted a professional meeting request email to SecureTech’s IT and Legal teams. This demonstrated proactive communication and simulated real-world collaboration to align technical and legal perspectives on data protection training and identity access management (IAM).
 
-# Meeting Request Email
+#meeting-request-email
 
 <img src="https://i.imgur.com/Bu6uvEC.png" alt="image" width="1000">
 ---
